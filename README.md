@@ -1,4 +1,4 @@
-# SQL Fantasy Library
+_# SQL Fantasy Library
 
 We're going to build a SQL database that will keep track of books from a fantasy
 series in a library. These types of books can get complex, with many characters
