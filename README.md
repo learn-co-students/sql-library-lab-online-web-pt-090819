@@ -1,3 +1,4 @@
+
 # SQL Fantasy Library
 
 We're going to build a SQL database that will keep track of books from a fantasy
